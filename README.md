@@ -1,8 +1,8 @@
 # MITACS_PROJECT1
 
-All scripts are written in PCL and SDL languages, supported by 'Presenation - neurobehavioral systems', a stimulus delivery and experiment control program for neuroscience.
+All the scripts are written in PCL and SDL languages, supported by 'Presenation - neurobehavioral systems', a stimulus delivery and experiment control program for neuroscience.
 
-Firstly, run the ‘mvcmeasure_x’ script to measure the maximum voluntary contraction of the right hand and use the gripper ‘X’ for this purpose. Alternatively, run the ‘mvcmeasure_y’ script to measure the maximum voluntary contraction of the left hand and use the gripper ‘Y’ for this purpose.
+Firstly, run the ‘mvcmeasure_x’ script to measure the maximum voluntary contraction of the right hand and use the gripper ‘X’ (Current Design Grip Force Device - HHSC-2X1-GRFC) for this purpose. Alternatively, run the ‘mvcmeasure_y’ script to measure the maximum voluntary contraction of the left hand and use the gripper ‘Y’ for this purpose.
 
 Run the ‘motor_task_trigger’ script to load the visual stimuli and send trigger to the EEG system or run the ‘motor_task’ script if you want to show the visual stimuli but not using the EEG system.
 
