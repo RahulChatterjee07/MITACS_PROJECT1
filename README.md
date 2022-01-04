@@ -13,3 +13,8 @@ Target bar: this bar is always white and fixed on a specific position on the scr
 Moving bar: this bar is always green, and its height will change as the subject starts applying force.
 Red color means rest time: when the bar turns red the subject should not apply any force.
 Task time is 4 secs and rest time will vary from 8 secs to 10 secs.
+
+[*] Softwares used:
+
+PsychoPy (Python)
+Presenation - neurobehavioral systems (C++)
