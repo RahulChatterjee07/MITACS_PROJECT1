@@ -16,5 +16,5 @@ Task time is 4 secs and rest time will vary from 8 secs to 10 secs.
 
 [*] Softwares used:
 
-PsychoPy (Python)
-Presenation - neurobehavioral systems (C++)
+1. PsychoPy (Python)
+2. Presenation - neurobehavioral systems (C++)
